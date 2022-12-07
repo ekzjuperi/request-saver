@@ -2,4 +2,5 @@
 
 # port for server
 port: "8080"
+# path for db
 dbPath: "./test.db"
