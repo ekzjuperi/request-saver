@@ -1,0 +1,5 @@
+# configurations
+
+# port for server
+port: "8080"
+dbPath: "./test.db"
